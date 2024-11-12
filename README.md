@@ -1,4 +1,4 @@
-#  Hi, I'm Andrea! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> <br> Welcome to my profile!
+#  Hi there!, I'm Andrea! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> <br> Welcome to my profile!
 <p>
 I'm a UX/UI designer with a focus on CRO, based in A Coruña, and also a senior graphic designer. I love learning new ways to work, and right now I'm diving into design systems and coding. Thanks for visiting and I'd love to connect! :octocat:
 </p>
