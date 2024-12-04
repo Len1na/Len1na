@@ -14,5 +14,4 @@
 [![alt text](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/andrea-alonso-garc%C3%ADa/)
 
 
-Link	[title](https://www.example.com)
-Image	![alt text](image.jpg)
+
