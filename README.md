@@ -24,7 +24,7 @@ Soy una persona en constante aprendizaje, metódica y con facilidad para integra
 
 
 
-### Gracias por ver mi perfil, no dudes en contactarme :octocat:
+### Gracias por ver mi perfil, no dudes en contactarme por LinkedIn :octocat:
 
 
 [![alt text](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/andrea-alonso-garc%C3%ADa/)
