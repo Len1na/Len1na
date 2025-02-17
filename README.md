@@ -20,7 +20,7 @@ Soy una persona en constante aprendizaje, metódica y con facilidad para integra
 
 - **UX/UI**: Creación de wireframes, prototipado y diseño.
 - **Maquetación Frontend**: Conocimientos básicos de HTML, CSS, JavaScript y React.
-- **Herramientas**: Paquete Adobe, Framer, Figma, Wordpress, Elementor, BeePro, AbTasty, Mouseflow, BrowserStack, Visual Studio Code, GitBash.
+- **Herramientas**: Paquete Adobe, Framer, Figma, Wordpress, Elementor, BeePro, AbTasty, Mouseflow, BrowserStack, Visual Studio Code, GitBash, Netlify, SonarCloud.
 
 
 
